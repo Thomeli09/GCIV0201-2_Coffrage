@@ -43,6 +43,7 @@
     <Compile Include="tests\test_simulation.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="docs\" />
     <Folder Include="examples\" />
     <Folder Include="src\" />
     <Folder Include="src\coffrage\" />
