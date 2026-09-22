@@ -1,0 +1,5 @@
+Improovement:
+ -use different materials for concrete, formwork, bracing, soil, etc
+ -Generate different geometry (formwork as line, surface as line or horizon to cut formwork if not either filled or empty if below or higher than the formwork
+ , concret as surface, bracing as line, soil as surface)
+ - Wait until plot files are uptodate again before reworking the geometry
