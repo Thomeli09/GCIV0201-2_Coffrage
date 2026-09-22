@@ -24,6 +24,19 @@
   <ItemGroup>
     <Compile Include="examples\advanced_simulation.py" />
     <Compile Include="examples\basic_simulation.py" />
+    <Compile Include="src\coffrage\DataManagementLib.py" />
+    <Compile Include="src\coffrage\ElementLib.py" />
+    <Compile Include="src\coffrage\FormworkLib.py" />
+    <Compile Include="src\coffrage\GeometryLib.py" />
+    <Compile Include="src\coffrage\LoadingLib.py" />
+    <Compile Include="src\coffrage\MaterialLib.py" />
+    <Compile Include="src\coffrage\MathOperationLib.py" />
+    <Compile Include="src\coffrage\MeshLib.py" />
+    <Compile Include="src\coffrage\ObjectManagementLib.py" />
+    <Compile Include="src\coffrage\PlotLib.py" />
+    <Compile Include="src\coffrage\RheologyLib.py" />
+    <Compile Include="src\coffrage\SoilLib.py" />
+    <Compile Include="src\coffrage\StructuralLib.py" />
     <Compile Include="src\coffrage\temp\rock.py" />
     <Compile Include="src\coffrage\temp\__init__.py" />
     <Compile Include="src\coffrage\materials\rock_material.py" />
